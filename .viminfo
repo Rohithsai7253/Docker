@@ -14,16 +14,18 @@
 $
 
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1733849192,,"wq!"
+:wq1
+|2,0,1733848431,,"wq1"
 :q!
-|2,0,1733847705,,"q!"
+|2,0,1733848410,,"q!"
 :q1
 |2,0,1733846427,,"q1"
-:wq!
-|2,0,1733814913,,"wq!"
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1733847699,,"@$"
+|2,1,1733848405,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -34,222 +36,266 @@ $
 # Registers:
 
 # File marks:
-'0  8  0  ~/Docker
-|4,48,8,0,1733847705,"~/Docker"
-'2  8  0  ~/Docker
-|4,50,8,0,1733847189,"~/Docker"
-'3  8  0  ~/Docker/.git
-|4,51,8,0,1733846742,"~/Docker/.git"
-'5  1  0  ~/my_django_app/Dockerfile
-|4,53,1,0,1733814913,"~/my_django_app/Dockerfile"
-'6  6  13  ~/my_django_app/docker-compose.yml
-|4,54,6,13,1733814728,"~/my_django_app/docker-compose.yml"
-'7  12  14  ~/my_django_app/docker-compose.yml
-|4,55,12,14,1733814636,"~/my_django_app/docker-compose.yml"
-'8  12  14  ~/my_django_app/docker-compose.yml
-|4,56,12,14,1733814636,"~/my_django_app/docker-compose.yml"
-'9  1  15  ~/my_django_app/requirements.txt
-|4,57,1,15,1733814584,"~/my_django_app/requirements.txt"
+'0  6  0  ~/simple-java-app/src/Main.java
+|4,48,6,0,1733849192,"~/simple-java-app/src/Main.java"
+'1  6  0  ~/simple-java-app/Main.java
+|4,49,6,0,1733849134,"~/simple-java-app/Main.java"
+'2  17  19  ~/simple-java-app/Dockerfile
+|4,50,17,19,1733848786,"~/simple-java-app/Dockerfile"
+'3  6  0  ~/simple-java-app/main.java
+|4,51,6,0,1733848740,"~/simple-java-app/main.java"
+'4  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,52,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+'5  8  0  ~/Docker-Zero-to-Hero
+|4,53,8,0,1733848410,"~/Docker-Zero-to-Hero"
+'6  1  0  ~/Docker-hero-to-zerooo
+|4,54,1,0,1733848317,"~/Docker-hero-to-zerooo"
+'7  8  0  ~/Docker
+|4,55,8,0,1733847705,"~/Docker"
+'8  8  0  ~/Docker
+|4,56,8,0,1733847189,"~/Docker"
+'9  8  0  ~/Docker/.git
+|4,57,8,0,1733846742,"~/Docker/.git"
 
 # Jumplist (newest first):
--'  8  0  ~/Docker
-|4,39,8,0,1733847705,"~/Docker"
--'  8  0  ~/Docker
-|4,39,8,0,1733847189,"~/Docker"
--'  8  0  ~/Docker/.git
-|4,39,8,0,1733846742,"~/Docker/.git"
--'  8  0  ~/Docker/.git
-|4,39,8,0,1733846742,"~/Docker/.git"
--'  8  0  ~/Docker/.git
-|4,39,8,0,1733846742,"~/Docker/.git"
--'  8  0  ~/Docker/.git
-|4,39,8,0,1733846742,"~/Docker/.git"
--'  8  0  ~/Docker
-|4,39,8,0,1733846427,"~/Docker"
--'  8  0  ~/Docker
-|4,39,8,0,1733846427,"~/Docker"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  1  0  ~/my_django_app/Dockerfile
-|4,39,1,0,1733814913,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  22  55  ~/my_django_app/Dockerfile
-|4,39,22,55,1733814890,"~/my_django_app/Dockerfile"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  6  13  ~/my_django_app/docker-compose.yml
-|4,39,6,13,1733814728,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
--'  12  14  ~/my_django_app/docker-compose.yml
-|4,39,12,14,1733814715,"~/my_django_app/docker-compose.yml"
+-'  6  0  ~/simple-java-app/src/Main.java
+|4,39,6,0,1733849192,"~/simple-java-app/src/Main.java"
+-'  1  0  ~/simple-java-app/src/Main.java
+|4,39,1,0,1733849176,"~/simple-java-app/src/Main.java"
+-'  6  0  ~/simple-java-app/Main.java
+|4,39,6,0,1733849134,"~/simple-java-app/Main.java"
+-'  6  0  ~/simple-java-app/Main.java
+|4,39,6,0,1733849134,"~/simple-java-app/Main.java"
+-'  1  0  ~/simple-java-app/Main.java
+|4,39,1,0,1733849119,"~/simple-java-app/Main.java"
+-'  1  0  ~/simple-java-app/Main.java
+|4,39,1,0,1733849119,"~/simple-java-app/Main.java"
+-'  17  19  ~/simple-java-app/Dockerfile
+|4,39,17,19,1733848786,"~/simple-java-app/Dockerfile"
+-'  17  19  ~/simple-java-app/Dockerfile
+|4,39,17,19,1733848786,"~/simple-java-app/Dockerfile"
+-'  17  19  ~/simple-java-app/Dockerfile
+|4,39,17,19,1733848786,"~/simple-java-app/Dockerfile"
+-'  17  19  ~/simple-java-app/Dockerfile
+|4,39,17,19,1733848786,"~/simple-java-app/Dockerfile"
+-'  1  0  ~/simple-java-app/Dockerfile
+|4,39,1,0,1733848779,"~/simple-java-app/Dockerfile"
+-'  1  0  ~/simple-java-app/Dockerfile
+|4,39,1,0,1733848779,"~/simple-java-app/Dockerfile"
+-'  1  0  ~/simple-java-app/Dockerfile
+|4,39,1,0,1733848779,"~/simple-java-app/Dockerfile"
+-'  1  0  ~/simple-java-app/Dockerfile
+|4,39,1,0,1733848779,"~/simple-java-app/Dockerfile"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  6  0  ~/simple-java-app/main.java
+|4,39,6,0,1733848740,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/simple-java-app/main.java
+|4,39,1,0,1733848732,"~/simple-java-app/main.java"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  1  0  ~/Docker-Zero-to-Hero/commands.md
+|4,39,1,0,1733848431,"~/Docker-Zero-to-Hero/commands.md"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  8  0  ~/Docker-Zero-to-Hero
+|4,39,8,0,1733848410,"~/Docker-Zero-to-Hero"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
+-'  1  0  ~/Docker-hero-to-zerooo
+|4,39,1,0,1733848317,"~/Docker-hero-to-zerooo"
 
 # History of marks within files (newest to oldest):
+
+> ~/simple-java-app/src/Main.java
+	*	1733849191	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/simple-java-app/Main.java
+	*	1733849132	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/simple-java-app/Dockerfile
+	*	1733848784	0
+	"	17	19
+	^	17	20
+	.	17	19
+	+	17	19
+
+> ~/simple-java-app/main.java
+	*	1733848739	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/Docker-Zero-to-Hero/commands.md
+	*	1733848429	0
+	"	1	0
+
+> ~/Docker-hero-to-zerooo
+	*	1733848314	0
+	"	1	0
 
 > ~/my_django_app/Dockerfile
 	*	1733814907	0
